@@ -93,3 +93,4 @@ function isPangram(string){
 
 - Russian - Native
 - English - Intermediate (according to the online test at [www.efset.org](https://www.efset.org/quick-check/))
+  ![Test result](./img/ef-test.png)
