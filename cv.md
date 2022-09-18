@@ -88,3 +88,8 @@ function isPangram(string){
 - JavaScript Basics on https://learn.javascript.ru/ - completed
 - JavaScript Algorithms and Data Structures on [freeCodeCamp](https://www.freecodecamp.org/) - completed
 - RS Schools Course «JavaScript/Front-end. Stage 1» - in progress
+
+## Languages:
+
+- Russian - Native
+- English - Intermediate (according to the online test at [www.efset.org](https://www.efset.org/quick-check/))
