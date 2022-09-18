@@ -81,3 +81,10 @@ function isPangram(string){
   - Photoshop
 
 - **Link:** [ICNDY](https://alik1994.github.io/ICNDY/)
+
+## Courses:
+
+- HTML and CSS Course on [HTMLAcademy](https://htmlacademy.ru/) - completed
+- JavaScript Basics on https://learn.javascript.ru/ - completed
+- JavaScript Algorithms and Data Structures on [freeCodeCamp](https://www.freecodecamp.org/) - completed
+- RS Schools Course «JavaScript/Front-end. Stage 1» - in progress
