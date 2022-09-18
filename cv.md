@@ -15,3 +15,13 @@ Three years ago I decided to continue studying programming languages as a my new
 After two years, I started to create beautiful web-sites and then I understood, that I want to work as a front-end developer. But my knowledge was not enough for that. And I resolved to learn Java Script to improve my skills.
 
 Today I can create web-sites and know the basics of JS. I believe that with my responsibility and great desire, I will become a front-end developer.
+
+## My skills:
+
+- HTML5, CSS3
+  - Flexbox
+  - Grig Layout
+- Photoshop
+- Figma
+- JavaScript Basics
+- VS Code
