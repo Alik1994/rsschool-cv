@@ -47,3 +47,36 @@ function isPangram(string){
   return Array.from(letters).length === 26;
 }
 ```
+
+## Projects:
+
+1. **Landing page of exchange service:** _MoneyExchange_
+
+**Targets:**
+
+- Practice of adaptive layout
+- Practice of using Flexbox
+
+**Used technologies:**
+
+- HTML5
+- CSS3
+- Flexbox
+- Photoshop
+
+**Link:** [MoneyExchange](https://alik1994.github.io/moneyexchange/)
+
+2. **Landing page of clothing store:** _ICNDY_
+   **Targets:**
+
+- Practice of adaptive layout
+- Practice of using Grid Layouts
+
+**Used technologies:**
+
+- HTML5
+- CSS3
+- Grid Layout
+- Photoshop
+
+**Link:** [ICNDY](https://alik1994.github.io/ICNDY/)
